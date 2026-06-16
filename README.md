@@ -186,12 +186,12 @@ yaklaşımlarını bir araya getirerek yüksek doğrulukta tahminler üretmekted
 
 ## Contributors
 
-| Name | Role |
-|--------|--------|
-| Eren Oğan | 
-| Enes Güzel | 
-| Esengül Velet |
-
+| Name |
+|--------|
+| Eren OĞAN | 
+| Enes GÜZEL | 
+| Esengül VELET |
+| Yiğit Mert YILMAZ | 
 
 
 ---
