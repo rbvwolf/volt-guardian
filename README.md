@@ -190,6 +190,8 @@ yaklaşımlarını bir araya getirerek yüksek doğrulukta tahminler üretmekted
 |--------|--------|
 | Eren Oğan | 
 | Enes Güzel | 
+| Esengül Velet |
+
 
 
 ---
